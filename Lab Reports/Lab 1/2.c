@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 int main(){
     int a=3,b=7,c=9,sum;
     sum=a+b+c;
